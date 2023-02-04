@@ -6,7 +6,7 @@
 - 项目提供的内网直播源仅限于您处于某地区或城市运营商内网中才可以正常观看。
 - 本项目不保证所有直播源节目的有效性，直播内容可能受直播服务提供商因素影响而失效。
 - 目前主流浏览器对http协议的链接做了限制，通过M3U8 Player测试直播源请使用https协议直播源链接。
-- 所有文件和内容均托管在[GitHub](https://github.com/fanmingming/live)，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈遇到的问题。
+
 
 ## 📔最后更新
 - 2023.1.31
